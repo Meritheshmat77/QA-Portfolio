@@ -5,4 +5,3 @@ Project: OrangeHRM Testing
 Scope:
 Manual testing for employee management system.
 # Bug Reports
-
