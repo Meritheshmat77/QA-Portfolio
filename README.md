@@ -1,5 +1,5 @@
 # QA-Portfolio - Merit
-Project: Employee Training Request Platfor.m 
+Project: Employee Training Request Platform 
 # Manual Testing Projects (Test Cases & Test Scenarios)
 Project: OrangeHRM Testing
 Scope:
